@@ -440,7 +440,7 @@ export const projectsList: Projects[] = [
         ],
         position: 'Frontend',
         linkDemo: '',
-        linkFE: 'https://github.com/KhangLeIT/reactJs-foodweb',
+        linkFE: 'https://github.com/KhangLeIT/infor-khangle-dev',
         linkBE: ''
     }
 

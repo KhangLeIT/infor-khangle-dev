@@ -408,7 +408,7 @@ export const projectsList: Projects[] = [
     },
     {
         idProject: 6,
-        title: 'Fullstack - Infortion about Le Tan Khang WEBSITE',
+        title: 'Fullstack - Information About Le Tan Khang WEBSITE',
         image: 'infor-khangle.png',
         imgCategory: 'logo192.png',
         type: 'web',

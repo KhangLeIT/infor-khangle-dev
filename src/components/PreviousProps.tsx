@@ -76,7 +76,7 @@ const PreviousProps: React.FC<PreviousProps> = (props) => {
                 <div>
                     <div className="section improve-skills">
                         <div className="col img">
-                            <img src='/img/gallery/logoDNC.jpg' />
+                            <img src='/img/gallery/LogoDNC.jpg' />
                         </div>
                         <div className="col typography">
                             <h1 className="title">Nam Can Tho University</h1>

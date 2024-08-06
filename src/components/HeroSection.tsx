@@ -34,8 +34,10 @@ const HeroSection: React.FC = () => {
                 <div className={animationClass}>
                     <h1 className="title">Who I Am?</h1>
                     <p className="info">
-                        KhangLeIT, My name is Le Tan Khang <br /> I graduate in December 2023
+                        <p>KhangLeIT, My name is Le Tan Khang. <br />
+                        Graduated from university majoring in information technology with an engineering degree</p>
                         <br />I am an  <b> Web/App Developer</b>
+                        <br/>
                     </p>
                     <div className='buttons'>
                         <button className="btn-category" onClick={openMyCV}>Watching CV</button>
